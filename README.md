@@ -1,6 +1,6 @@
 # Hi there <img src="assets/wave.gif" width="40">
 
-My name is Josep Mahiuha and I work as a Technician, I'm from Kenya and I'm looking for remote opportunities.
+My name is Joseph Mahiuha and I work as a Technician, I'm from Kenya and I'm looking for remote opportunities.
 
 - 🔭 I’m currently working as a Technician
 - 🌱 I’m currently studying at Holberton School, and I'm learning React
