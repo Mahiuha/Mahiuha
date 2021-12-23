@@ -27,6 +27,7 @@ My name is Joseph Mahiuha and I work as a Technician, I'm from Kenya and I'm loo
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![PHP](https://img.shields.io/badge/≡-PHP-777BB4?logo=php&style=flat-square&labelColor=282828)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)
+[![Lua](https://img.shields.io/badge/≡-Lua-7952B3?logo=lua&style=flat-square&labelColor=282828)](https://www.lua.org/)
 
 ---
 
