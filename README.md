@@ -2,9 +2,9 @@
 
 My name is Joseph Mahiuha and I work as a Technician, I'm from Kenya and I'm looking for remote opportunities.
 
-- 🔭 I’m currently working as a Technician
+- 🔭 I’m currently working as a Technician.
 - 🌱 I’m currently studying at Holberton School facilitated by ALX, and I'm learning Full Stack.
-- 😄 I'm balanced, observant, centered, and amiable
+- 😄 I'm balanced, observant, centered, and amiable.
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://josephmahiuha.me/)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Joseph_Mahiuha)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-mahiuha-498a52162)
