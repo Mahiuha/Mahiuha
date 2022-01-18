@@ -40,7 +40,7 @@ Apart from coding, I also maintain a blog related to front-end topics, you can f
 
 ## Github Stats:chart_with_upwards_trend:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiuha&langs_count=5&title_color=20d6fe&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Mahiuha's GitHub Language Stats" />
 </a>
 <a href="https://git.io/streak-stats">
