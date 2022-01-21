@@ -47,7 +47,7 @@ Apart from coding, I also maintain a blog related to front-end topics, you can f
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
 </a>
 
-[![Mahiuha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mahiuha)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahiuha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahiuha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
