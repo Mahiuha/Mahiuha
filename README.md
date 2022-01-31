@@ -43,6 +43,9 @@ Apart from coding, I also maintain a blog related to software topics, you can fi
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mahiuha&show_icons=true&theme=jolly&layout=compact" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiuha&langs_count=8&theme=jolly&layout=compact" />
+</a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
 </a>
