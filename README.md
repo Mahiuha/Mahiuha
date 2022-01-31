@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog related to software topics, you can fi
 ## Github Stats:chart_with_upwards_trend:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiuha&langs_count=5&title_color=20d6fe&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Mahiuha's GitHub Language Stats" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mahiuha&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
