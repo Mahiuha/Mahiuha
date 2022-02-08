@@ -1,4 +1,4 @@
-# Hi there <img src="assets/wave.gif" width="40">
+# Hi there. <img src="assets/wave.gif" width="40">
 
 My name is Joseph Mahiuha and I work as an electrical & electronics Technician, I'm from Kenya and I'm looking for remote opportunities.
 
