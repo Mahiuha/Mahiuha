@@ -6,7 +6,7 @@ My name is Joseph Mahiuha and I work as an electrical & electronics Technician, 
 - :blossom: Looking for remote Software and cybersecurity opportunities.
 - 🌱 I recently graduated from ALX, as a Back-End Developer.
 - 😄 I'm balanced, observant, centered, and amiable.
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://mahiuha.github.io/josephmahiuha))
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://mahiuha.github.io/josephmahiuha)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Joseph_Mahiuha)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-mahiuha-498a52162)
 
