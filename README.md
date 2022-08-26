@@ -1,8 +1,9 @@
 # Hi there. <img src="assets/wave.gif" width="40">
 
-My name is Joseph Mahiuha and I work as an electrical & electronics Technician, I'm from Kenya and I'm looking for remote opportunities.
+My name is Joseph Mahiuha and I work as an electrical & electronics Technician, I'm from Kenya and I'm looking for remote opportunities in the field of Software Development.
 
 - 🔭 I’m currently working as a Technician.
+- :blossom: Looking for remote Software and cybersecurity opportunities.
 - 🌱 I recently graduated from ALX, as a Back-End Developer.
 - 😄 I'm balanced, observant, centered, and amiable.
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://mahiuha.github.io/josephmahiuha))
