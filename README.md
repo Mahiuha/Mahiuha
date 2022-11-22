@@ -2,7 +2,7 @@
 
 My name is Joseph Mahiuha and I work as a Software Engineer, I'm from Kenya and I'm looking for remote opportunities in the field.
 
-- 🔭 I’m currently working as a Technician.
+- 🔭 I’m currently working as a Software Engineer.
 - :blossom: Looking for remote Software and cybersecurity opportunities.
 - 🌱 I recently graduated from ALX, as a Back-End Developer.
 - 😄 I'm balanced, observant, centered, and amiable.
