@@ -39,8 +39,6 @@ Apart from coding, I also maintain a blog related to software topics, you can fi
 
 ---
 
-## Github Stats:chart_with_upwards_trend:
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
