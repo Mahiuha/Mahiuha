@@ -35,7 +35,7 @@ My name is Joseph Mahiuha and I work as a Software Engineer, I'm from Kenya and 
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog related to software topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://Mahiuha.gitlab.io/myblog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@josephmahiuha)
+Apart from coding, I also maintain a blog related to software topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://Mahiuha.gitlab.io/blog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@josephmahiuha)
 
 ---
 
