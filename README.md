@@ -1,14 +1,12 @@
-# Hi there. <img src="assets/wave.gif" width="40">
+<!-- Title -->
+<h1 align="center">Hi there, I'm Diego <img src="assets/wave.gif" width="40"></h1>
 
-My name is Joseph Mahiuha and I work as a Software Engineer, I'm from Kenya and I'm looking for remote opportunities in the field.
+<!-- Social Links -->
+<p align="center">
+  <a href="https://twitter.com/Joseph_Mahiuha" title="Twitter - @Mahiuha"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/joseph-mahiuha-498a52162/" title="LinkedIn - Joseph Mahiuha"><img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/></a> | <a href="https://mahiuha.com/" title="Personal Website - mahiuha.com"><img src="https://img.shields.io/badge/-mahiuha.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working as a Software Engineer.
-- :blossom: Looking for remote Software and cybersecurity opportunities.
-- 🌱 I recently graduated from ALX, as a Full-Stack developer Back-End heavy.
-- 😄 I'm balanced, observant, centered, and amiable.
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://mahiuha.com/)
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Joseph_Mahiuha)
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-mahiuha-498a52162)
+I am a back-end developer (60%) and front-end developer (40%). My curiosity drives me to explore new technologies, and I'm committed to understanding the fundamentals. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
 
 ---
 
