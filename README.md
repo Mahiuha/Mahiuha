@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi there, I'm Diego <img src="assets/wave.gif" width="40"></h1>
+<h1 align="center">Hi there, I'm Joseph Mahiuha <img src="assets/wave.gif" width="40"></h1>
 
 <!-- Social Links -->
 <p align="center">
