@@ -21,13 +21,13 @@ I am a back-end developer (60%) and front-end developer (40%). My curiosity driv
 
 ---
 
-## Blog:pencil:
+## Blog
 
 Apart from coding, I also maintain a blog related to software topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://Mahiuha.gitlab.io/blog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@josephmahiuha)
 
 ---
 
-## Github Stats:chart_with_upwards_trend:
+## Github Stats
 
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
