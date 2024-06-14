@@ -27,7 +27,7 @@ Apart from coding, I also maintain a blog related to software topics, you can fi
 
 ---
 
-## Github Stats
+## Github Stats 📈
 
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
